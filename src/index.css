@@ -1,0 +1,21 @@
+html, body {
+  height: 100%
+}
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+}
+
+.editable {
+  height: 50%;
+}
+
+.markdown-text {
+  height: 100%;
+  width: 100%;
+  resize: none;
+}
+
+.htmlfied {
+  height: 50%
+}
